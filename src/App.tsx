@@ -21,10 +21,8 @@ function App() {
 
   const shuffle = () => {
     setTiles(prev => [...prev.sort( () => .5 - Math.random())])
-    console.log("HERERE")
   }
 
-  console.log("Render")
   return (
     <div className="App">
       <div style={{ display: "flex", gap: "10px", marginBottom: "50px"}}>
