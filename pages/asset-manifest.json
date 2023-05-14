@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/color-pattern-picker/static/js/main.42448958.js",
+    "static/media/img3.jpg": "/color-pattern-picker/static/media/img3.54f700d763f0aa547dd7.jpg",
+    "static/media/img1.jpg": "/color-pattern-picker/static/media/img1.06b877c37d06b5274aae.jpg",
+    "static/media/img5.jpg": "/color-pattern-picker/static/media/img5.fc3387c584eb6ed85560.jpg",
+    "static/media/img2.jpg": "/color-pattern-picker/static/media/img2.afe340a602704e3198cf.jpg",
+    "static/media/img4.jpg": "/color-pattern-picker/static/media/img4.a4f7ebeec7f3ce2bae24.jpg",
+    "static/media/img7.jpg": "/color-pattern-picker/static/media/img7.3dea8400ec6a3ab9dda4.jpg",
+    "static/media/img8.jpg": "/color-pattern-picker/static/media/img8.47bd9c92bd343b2c9fed.jpg",
+    "static/media/img10.jpg": "/color-pattern-picker/static/media/img10.27b3cc2c5cc409cc6dd6.jpg",
+    "static/media/img11.jpg": "/color-pattern-picker/static/media/img11.ac0c00e05e4166cd99be.jpg",
+    "static/media/img9.jpg": "/color-pattern-picker/static/media/img9.e39a4fb36565077cac41.jpg",
+    "static/media/img6.jpg": "/color-pattern-picker/static/media/img6.89be69012c717a16b73e.jpg",
+    "index.html": "/color-pattern-picker/index.html",
+    "main.42448958.js.map": "/color-pattern-picker/static/js/main.42448958.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.42448958.js"
+  ]
+}
